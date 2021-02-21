@@ -1,2 +1,1 @@
-Anooshree Sengupta
 # athenaGithubWorksheet
